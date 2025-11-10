@@ -75,8 +75,3 @@ For more information on both of these topics, please see the section on
 redistributing Visual C++ applications in MSDN documentation.
 
 /////////////////////////////////////////////////////////////////////////////
-
-1.In a primary transaction, a company sells new shares to raise capital，ordinary investors can participate in the purchase of new shares
-2.after primary transaction, investors can be free to buy and sell its shares, the stock price is determined by the free market, in a secondary offering isn't about raising capital but giving existing shareholders an opportunity to sell their holdings, an IPO may include a secondary component where earlier investors (such as the founders or venture capital firms)to look for a way to realize their gains.Existing shareholders usually have to wait 90 days before they can sell.
-3.Stock warrants and options are instruments that companies can issue to enable investors to protect themselves against dilution. Both give investors the right to purchase additional shares at predetermined prices
-4.The total number of shares is also likely to increase
